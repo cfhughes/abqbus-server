@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.onebusaway:onebusaway-gtfs:1.3.4" type="repository">
+    <properties maven-id="org.onebusaway:onebusaway-gtfs:1.3.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/onebusaway/onebusaway-gtfs/1.3.4/onebusaway-gtfs-1.3.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/onebusaway/onebusaway-csv-entities/1.1.4/onebusaway-csv-entities-1.1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.0.3/commons-logging-1.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
